@@ -1,0 +1,5 @@
+Dataset Name:
+Customer Churn Prediction Dataset – 1M Records
+
+Dataset Link:
+https://www.kaggle.com/datasets/isandeep06/customer-churn-prediction-dataset-1m
